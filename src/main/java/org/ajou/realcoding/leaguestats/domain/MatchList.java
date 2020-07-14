@@ -1,6 +1,6 @@
 package org.ajou.realcoding.leaguestats.domain;
 
-public class Match {
+public class MatchList {
     /*
     {
         "matches": [
